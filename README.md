@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<video src="https://videos1.memedroid.com/videos/UPLOADED181/627ca81d3371c.mp4" width="512px" loop="" poster="https://videos1.memedroid.com/videos/UPLOADED181/627ca81d3371c.webp" playsinline="" muted=""><video/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nachat-ayoub&icon=0&color=0)](https://visitcount.itsvg.in)
