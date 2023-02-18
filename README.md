@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a startup<br>🤝 I’m looking for a remote job, Or a internship in web development<br>🌱 I’m currently learning "Laravel"<br>⚡ Fun fact "Javascript" will rule the world
+🔭 I’m currently working on a startup<br>🤝 I’m looking for a remote job, Or internship in web development<br>🌱 I’m currently learning "Laravel"<br>⚡ Fun fact "Javascript" will rule the world
 
 
 ## 🌐 Socials:
